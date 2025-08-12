@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Shaswat</h1>
 <div style="font-size: 1.1rem; line-height: 1.6;">  <p>
-    I’m a <strong>Full Stack Developer</strong> , <strong>DevOps Enthusiast</strong> ⚙, and <strong>UI/UX Designer</strong> 
-    who enjoys creating things that people actually find useful ✨.
+    I’m a <strong>Full Stack Developer</strong> , <strong>DevOps Enthusiast</strong> , and <strong>UI/UX Designer</strong> 
+    who enjoys creating things that people actually find useful .
   </p>
   <p>
     I split my time between building projects 🛠️, experimenting with new ideas 💡, and learning as I go . 
