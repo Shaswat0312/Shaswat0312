@@ -37,7 +37,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smisho_03) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shaswatmishra3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaswatmishra3)
 [![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/Shaswat031204)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswat0312&label=Profile%20views&color=0e75b6&style=flat" alt="shaswat0312" /> </p>
