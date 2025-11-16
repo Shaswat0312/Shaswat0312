@@ -1,22 +1,33 @@
-<h1>Hi 👋, I'm Shaswat</h1>
-<div style="font-size: 1.1rem; line-height: 1.6;">  <p>
-    I’m a <strong>Full Stack Developer</strong> , <strong>DevOps Enthusiast</strong> , and <strong>UI/UX Designer</strong> 
-    who enjoys creating things that people actually find useful .
-  </p>
+<div align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDkwMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeDI9IjEiPgogICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNGI2Y2I3Ii8+CiAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxODI4NDgiLz4KICA8L2xpbmVhckdyYWRpZW50PgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjQ1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZpbGw9InVybCgjZykiIHN0eWxlPSJmb250LXdlaWdodDo3MDA7IHRleHQtc2hhZG93OjAgMCAxMHB4IGJsYWNrOyI+CiAgICBIaSwgSSdtIFNoYXN3YXQKICA8L3RleHQ+Cjwvc3ZnPg==" 
+       alt="Hi, I'm Shaswat" />
+</div>
+
+
+
+
+<div style="font-size: 1.1rem; line-height: 1.6;">
   <p>
-    I split my time between building projects 🛠️, experimenting with new ideas 💡, and learning as I go . 
-    When I’m not writing code, there’s a good chance I’m watching a cricket match 🏏 and thinking about my next project 🚀.
+    I’m a <strong>Full Stack Developer</strong> and <strong>DevOps Enthusiast</strong>, currently a 
+    <strong>pre-final year B.Tech (CSE) student at ITER, SOA</strong>. I enjoy building things that are actually useful and meaningful.
   </p>
+
   <p>
-    I like solving problems 🧩 — whether that means fixing a tricky bug , designing a cleaner user interface 🖌️, 
-    or figuring out how different pieces of tech can work better together 🔗. 
-    For me, it’s all about turning ideas into something real that can make a difference 🌟.
+    I spend most of my time building projects, experimenting with new ideas, and learning by doing. 
+    When I’m not coding, I’m usually watching a cricket match 🏏 or planning what to build next.
   </p>
+
   <p>
-    This GitHub is where I share what I’m working on — from polished apps 🎯 to rough experiments 🧪 — 
-    and hopefully learn a thing or two along the way 📈.
+    I enjoy solving problems — whether it’s fixing a stubborn bug, improving a user interface, or figuring out 
+    how different technologies can work better together 🔗. Turning ideas into something real is what keeps me going .
+  </p>
+
+  <p>
+    This GitHub is where I share everything I’m working on — from complete projects to small experiments — 
+    and continue growing as a developer .
   </p>
 </div>
+
 
 
 <p align="center">
