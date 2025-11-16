@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-label="Welcome to Shaswat's Codebase. Let's build something great">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#4b6cb7"/>
+      <stop offset="1" stop-color="#182848"/>
+    </stop>
+    </linearGradient>
+
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Inter, Roboto, Arial, sans-serif" font-weight="700"
+        font-size="28" fill="url(#g)" filter="url(#shadow)">
+    <tspan x="50%" dy="0">Welcome to Shaswat's Codebase.</tspan>
+  </text>
+
+  <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Inter, Roboto, Arial, sans-serif" font-weight="500"
+        font-size="18" fill="#555">
+    <tspan x="50%" dy="0">Let's build something great</tspan>
+  </text>
+</svg>
