@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <!-- Blue Gradient -->
+    <linearGradient id="blueGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#5AB3FF"></stop>
+      <stop offset="1" stop-color="#0066FF"></stop>
+    </linearGradient>
+
+    <!-- Brighter Gold Gradient -->
+    <linearGradient id="goldGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFD700"></stop>
+      <stop offset="0.5" stop-color="#FFB800"></stop>
+      <stop offset="1" stop-color="#FFCC33"></stop>
+    </linearGradient>
+
+    <!-- Drop-shadow -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.22"></feDropShadow>
+    </filter>
+
+    <!-- Typing Mask -->
+    <mask id="typingMask">
+      <rect x="0" y="0" width="0" height="180" fill="white">
+        <animate attributeName="width" from="0" to="900" dur="2.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"></animate>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="transparent"></rect>
+
+  <!-- Main Title -->
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-weight="700" font-size="30" fill="url(#blueGrad)" filter="url(#shadow)">
+    Welcome to Shaswat's Codebase.
+  </text>
+
+  <!-- Typing Animation (Bottom Text) -->
+  <g mask="url(#typingMask)">
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-weight="700" font-size="20" fill="url(#goldGrad)">
+      Let's build something great
+    </text>
+  </g>
+</svg>
