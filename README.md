@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDkwMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeDI9IjEiPgogICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNGI2Y2I3Ii8+CiAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxODI4NDgiLz4KICA8L2xpbmVhckdyYWRpZW50PgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjQ1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZpbGw9InVybCgjZykiIHN0eWxlPSJmb250LXdlaWdodDo3MDA7IHRleHQtc2hhZG93OjAgMCAxMHB4IGJsYWNrOyI+CiAgICBIaSwgSSdtIFNoYXN3YXQKICA8L3RleHQ+Cjwvc3ZnPg==" 
-       alt="Hi, I'm Shaswat" />
+  <img src="./Shaswat0312.svg" width="800" />
 </div>
+
 
 
 
