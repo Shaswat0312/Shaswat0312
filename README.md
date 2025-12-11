@@ -19,7 +19,7 @@
 
   <p>
     I enjoy solving problems — whether it’s fixing a stubborn bug, improving a user interface, or figuring out 
-    how different technologies can work better together 🔗. Turning ideas into something real is what keeps me going .
+    how different technologies can work better together . Turning ideas into something real is what keeps me going .
   </p>
 
   <p>
