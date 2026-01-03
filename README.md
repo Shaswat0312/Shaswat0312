@@ -57,7 +57,8 @@
 </div>
 
 <div>
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&size_weight=0.5&count_weight=0.5)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
