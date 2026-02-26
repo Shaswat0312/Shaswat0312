@@ -58,7 +58,7 @@
 
 <div>
   <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=midnight-purple&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&hide_border=true"/>
 </div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&size_weight=0.5&count_weight=0.5)
