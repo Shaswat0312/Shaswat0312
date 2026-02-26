@@ -69,7 +69,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Shaswat0312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Shaswat_Mishra_3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smisho_03) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaswatmishra3)
 [![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/Shaswat031204)
