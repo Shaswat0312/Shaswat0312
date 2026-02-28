@@ -3,11 +3,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   
-  <img 
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
-    width="300" 
-    alt="animated hello"
-  />
+ 
 
   <img 
     src="./Shaswat.svg" 
@@ -50,72 +46,76 @@
   </a>
 </p>
 
-<h1 align="left">Tech Stack</h1>
+<h1 align="center">Tech Stack</h1>
 <hr>
 
-<h2 align="center">
-  Programming Languages
-</h2>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<tr>
 
-<p align="center">
-  <img src="https://iconic-api.onrender.com/light/java" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-  <img src="https://iconic-api.onrender.com/light/c" width="64px" />
+<td width="45%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img src="./Skills_Animation_White.gif" width="500">
+</picture>
+
+</td>
+
+<td width="55%" align="center">
+
+<h3>Programming</h3>
+<p>
+  <img src="https://iconic-api.onrender.com/light/java" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/python" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/js" width="65"/>
+  <img src="https://iconic-api.onrender.com/light/c" width="65"/>
 </p>
 
-<br>
-
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="vertical-align: -4px; margin-right:8px;">
-  Frontend Development
-</h2>
-
-<p align="center">
-  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
+<h3>Frontend</h3>
+<p>
+  <img src="https://iconic-api.onrender.com/dark/react" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="65"/>
 </p>
 
-<br>
-
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" style="vertical-align: -4px; margin-right:8px;">
-  Backend Development
-</h2>
-
-<p align="center">
-  <img src="https://iconic-api.onrender.com/light/nodejs" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
-  <img src="https://www.svgrepo.com/show/447473/rest-api.svg" width="64" alt="REST API Icon">
+<h3>Backend</h3>
+<p>
+  <img src="https://iconic-api.onrender.com/light/nodejs" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/express" width="65"/>
+  <img src="https://www.svgrepo.com/show/447473/rest-api.svg" width="65"/>
 </p>
 
-<br>
-
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" style="vertical-align: -4px; margin-right:8px;">
-  Databases
-</h2>
-
-<p align="center">
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
-  <img src="https://iconic-api.onrender.com/light/postgresql" width="64px" />
+<h3>Databases</h3>
+<p>
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="65"/>
+  <img src="https://iconic-api.onrender.com/light/postgresql" width="65"/>
 </p>
 
-<br>
-
 <h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" style="vertical-align: -4px; margin-right:8px;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    width="22" 
+    style="vertical-align: middle; margin-right:8px;"
+  >
   Tools & Platforms
 </h2>
 
-<p align="center">
-  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/postman" width="64px" />
-  <img src="https://iconic-api.onrender.com/light/vscode" width="64px" />
+<p>
+  <img src="https://iconic-api.onrender.com/dark/git" width="75"/>
+  <img src="https://iconic-api.onrender.com/dark/github" width="75"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="75"/>
+  <img src="https://iconic-api.onrender.com/dark/postman" width="75"/>
+  <img src="https://iconic-api.onrender.com/dark/vercel" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/aws" width="65"/>
 </p>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <hr>
 
