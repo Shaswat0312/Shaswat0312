@@ -89,16 +89,11 @@
 </p>
 </div>
 <br>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:" />
-    </td>
-    <td valign="top" style="border: none;">
-      <img height="290" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
+</div>
+
   <br>
 <div align="center">
  
