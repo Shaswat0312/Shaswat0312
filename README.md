@@ -57,7 +57,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img src="./Skills_Animation_White.gif" width="500">
+  <img src="./Skills_Animation_White.gif" width=1200">
 </picture>
 
 </td>
@@ -66,49 +66,44 @@
 
 <h3>Programming</h3>
 <p>
-  <img src="https://iconic-api.onrender.com/light/java" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/python" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/js" width="65"/>
-  <img src="https://iconic-api.onrender.com/light/c" width="65"/>
+  <img src="https://iconic-api.onrender.com/light/java" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/python" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/js" width="55"/>
+  <img src="https://iconic-api.onrender.com/light/c" width="55"/>
 </p>
 
 <h3>Frontend</h3>
 <p>
-  <img src="https://iconic-api.onrender.com/dark/react" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/react" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="55"/>
 </p>
 
 <h3>Backend</h3>
 <p>
-  <img src="https://iconic-api.onrender.com/light/nodejs" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/express" width="65"/>
-  <img src="https://www.svgrepo.com/show/447473/rest-api.svg" width="65"/>
+  <img src="https://iconic-api.onrender.com/light/nodejs" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/express" width="55"/>
+  <img src="https://www.svgrepo.com/show/447473/rest-api.svg" width="55"/>
 </p>
 
 <h3>Databases</h3>
 <p>
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="65"/>
-  <img src="https://iconic-api.onrender.com/light/postgresql" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="55"/>
+  <img src="https://iconic-api.onrender.com/light/postgresql" width="55"/>
 </p>
 
 <h2 align="center">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    width="22" 
-    style="vertical-align: middle; margin-right:8px;"
-  >
   Tools & Platforms
 </h2>
 
 <p>
-  <img src="https://iconic-api.onrender.com/dark/git" width="75"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="75"/>
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="75"/>
-  <img src="https://iconic-api.onrender.com/dark/postman" width="75"/>
-  <img src="https://iconic-api.onrender.com/dark/vercel" width="65"/>
-  <img src="https://iconic-api.onrender.com/dark/aws" width="65"/>
+  <img src="https://iconic-api.onrender.com/dark/git" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/github" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/postman" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/vercel" width="55"/>
+  <img src="https://iconic-api.onrender.com/dark/aws" width="55"/>
 </p>
 
 </td>
