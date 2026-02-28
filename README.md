@@ -45,83 +45,89 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%E2%9E%A1%EF%B8%8F-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a&color=2c2c2c" alt="Visit My Portfolio" />
   </a>
 </p>
-
-<h1 align="center">Tech Stack</h1>
+<div style="display:flex">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img src="./Skills_Animation_White.gif" width="500">
+  </picture>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 <hr>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
+<div align="center">
 
-<td width="45%" align="center">
+##  Tech Stack
+<img src="https://iconic-api.onrender.com/light/java" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/python" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/js" width="70"/>
+<img src="https://iconic-api.onrender.com/light/c" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/react" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/tailwind" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/nextjs" width="70"/>
+<img src="https://iconic-api.onrender.com/light/nodejs" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/express" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/mongodb" width="70"/>
+<br />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="70"/>
+<img src="https://iconic-api.onrender.com/light/postgresql" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/git" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/github" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/vscode" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/postman" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/vercel" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/aws" width="70"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img src="./Skills_Animation_White.gif" width=1200">
-</picture>
+</div>
+<div align="center">
 
-</td>
+## 🤝 Connect With Me
 
-<td width="55%" align="center">
+<a href="https://github.com/Shaswat0312">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg"
+       width="50"
+       style="display: block;" />
+</a>
 
-<h3>Programming</h3>
-<p>
-  <img src="https://iconic-api.onrender.com/light/java" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/python" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/js" width="55"/>
-  <img src="https://iconic-api.onrender.com/light/c" width="55"/>
-</p>
+<a href="https://instagram.com/smisho_03">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg"
+       width="50"
+       style="display: block;" />
+</a>
 
-<h3>Frontend</h3>
-<p>
-  <img src="https://iconic-api.onrender.com/dark/react" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="55"/>
-</p>
+<a href="https://linkedin.com/in/shaswatmishra3">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg"
+       width="50"
+       style="display: block;" />
+</a>
 
-<h3>Backend</h3>
-<p>
-  <img src="https://iconic-api.onrender.com/light/nodejs" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/express" width="55"/>
-  <img src="https://www.svgrepo.com/show/447473/rest-api.svg" width="55"/>
-</p>
+<a href="https://twitter.com/Shaswat031204">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg"
+       width="50"
+       style="display: block;" />
+</a>
 
-<h3>Databases</h3>
-<p>
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="55"/>
-  <img src="https://iconic-api.onrender.com/light/postgresql" width="55"/>
-</p>
-
-<h2 align="center">
-  Tools & Platforms
-</h2>
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/git" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/postman" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/vercel" width="55"/>
-  <img src="https://iconic-api.onrender.com/dark/aws" width="55"/>
-</p>
-
-</td>
-</tr>
-</table>
-
+<a href="https://discord.gg/your-invite">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"
+       width="50"
+       style="display: block;" />
+</a>
+</div>
 <br>
-
-<hr>
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:" />
+    </td>
+    <td valign="top" style="border: none;">
+      <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+  <br>
+<div align="center">
+ 
 </div>
 
-<div>
-  <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:"/>
-</div>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&size_weight=0.5&count_weight=0.5)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -130,11 +136,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shaswat0312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smisho_03) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaswatmishra3)
-[![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/Shaswat031204)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswat0312&label=Profile%20views&color=0e75b6&style=flat" alt="shaswat0312" /> </p>
 
