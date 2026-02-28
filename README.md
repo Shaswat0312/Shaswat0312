@@ -1,5 +1,19 @@
-<div align="center">
-  <img src="./Shaswat.svg" width="800" />
+
+
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
+    width="300" 
+    alt="animated hello"
+  />
+
+  <img 
+    src="./Shaswat.svg" 
+    width="1200" 
+  />
+
 </div>
 
 
