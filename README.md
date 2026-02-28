@@ -80,37 +80,13 @@
 </div>
 <div align="center">
 
-## 🤝 Connect With Me
-
-<a href="https://github.com/Shaswat0312">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg"
-       width="50"
-       style="display: block;" />
-</a>
-
-<a href="https://instagram.com/smisho_03">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg"
-       width="50"
-       style="display: block;" />
-</a>
-
-<a href="https://linkedin.com/in/shaswatmishra3">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg"
-       width="50"
-       style="display: block;" />
-</a>
-
-<a href="https://twitter.com/Shaswat031204">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg"
-       width="50"
-       style="display: block;" />
-</a>
-
-<a href="https://discord.gg/your-invite">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"
-       width="50"
-       style="display: block;" />
-</a>
+<h3 align="center">Let's Connect :</h3>
+<p align="center">
+<a href="https://github.com/shaswat0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shaswat0312" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/shaswatmishra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswatmishra3"  height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/smisho_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smisho_03"  height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/smisho_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smisho_03" height="50" width="50" /></a>
+</p>
 </div>
 <br>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -119,7 +95,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:" />
     </td>
     <td valign="top" style="border: none;">
-      <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
+      <img height="290" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
