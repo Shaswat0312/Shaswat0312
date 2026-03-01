@@ -60,6 +60,7 @@
 <img src="https://iconic-api.onrender.com/light/java" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/python" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/js" width="70"/>
+<img src="https://iconic-api.onrender.com/light/typescript" width="70"/>
 <img src="https://iconic-api.onrender.com/light/c" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/react" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/tailwind" width="70"/>
@@ -67,12 +68,15 @@
 <img src="https://iconic-api.onrender.com/light/nodejs" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/express" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/mongodb" width="70"/>
-<br />
+<br /> 
+<img src="https://iconic-api.onrender.com/dark/numpy" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/bash" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/mysql" width="70"/>
 <img src="https://iconic-api.onrender.com/light/postgresql" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/mongodb" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/git" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/github" width="70"/>
-<img src="https://iconic-api.onrender.com/dark/vscode" width="70"/>
+<img src="https://iconic-api.onrender.com/dark/ubuntu" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/postman" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/vercel" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/aws" width="70"/>
@@ -82,6 +86,7 @@
 
 <h3 align="center">Let's Connect :</h3>
 <p align="center">
+<a href="https://leetcode.com/u/Shaswat_Mishra_3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaswat0312" height="50" width="50" /></a> &nbsp;&nbsp;
 <a href="https://github.com/shaswat0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shaswat0312" height="50" width="50" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/shaswatmishra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswatmishra3"  height="50" width="50" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/smisho_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smisho_03"  height="50" width="50" /></a> &nbsp;&nbsp;
@@ -104,6 +109,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shaswat0312&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?Shaswat0312=anuraghazra&theme=dark&show_icons=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shaswat0312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
