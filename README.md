@@ -93,12 +93,6 @@
 <a href="https://instagram.com/smisho_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smisho_03" height="50" width="50" /></a>
 </p>
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
-</div>
-
   <br>
 <div align="center">
  
@@ -106,6 +100,11 @@
 
 
 # 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&custom_title=Linguagens%20mais%20utilizadas:" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shaswat0312&theme=highcontrast)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shaswat0312&theme=dark&hide_border=false)<br/>
