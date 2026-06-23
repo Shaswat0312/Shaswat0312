@@ -100,9 +100,9 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&theme=dark&hide_border=true" /></a> 
+<div align="center"> 
   <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaswat0312&theme=radical&hide_border=true" />
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&theme=dark&hide_border=true" /></a>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shaswat0312&theme=highcontrast)](https://git.io/streak-stats)
