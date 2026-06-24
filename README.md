@@ -24,7 +24,7 @@
 
   <p>
     I spend most of my time building projects, experimenting with new ideas, and learning by doing. 
-    When I’m not coding, I’m usually watching a cricket match 🏏 or planning what to build next.
+    When I’m not coding, I’m usually watching a cricket match  or planning what to build next.
   </p>
 
   <p>
