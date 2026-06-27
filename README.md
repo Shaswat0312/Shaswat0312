@@ -105,9 +105,15 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswat0312&layout=compact&theme=dark&hide_border=true" /></a>
 </div>
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shaswat0312&theme=highcontrast)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shaswat0312&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Shaswat0312&theme=dark&hide_border=false)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shaswat0312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
