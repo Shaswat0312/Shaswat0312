@@ -107,7 +107,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaswat0312&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaswat0312&theme=highcontrast&private=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=Shaswat0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
