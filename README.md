@@ -1,22 +1,6 @@
-
-
-
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  
- 
-
-  <img 
-    src="./Shaswat.svg" 
-    width="1200" 
-  />
-
+  <img src="./Shaswat.svg" width="1200" />
 </div>
-
-
-
-
-
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <p>
     I’m a <strong>Full Stack Developer</strong> and <strong>DevOps Enthusiast</strong>, currently a 
