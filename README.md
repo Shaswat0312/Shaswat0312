@@ -40,7 +40,6 @@
 <hr>
 
 <div align="center">
-
 ##  Tech Stack
 <img src="https://iconic-api.onrender.com/light/java" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/python" width="70"/>
@@ -65,7 +64,6 @@
 <img src="https://iconic-api.onrender.com/dark/postman" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/vercel" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/aws" width="70"/>
-
 </div>
 <div align="center">
 
@@ -104,4 +102,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Shaswat0312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswat0312&label=Profile%20views&color=0e75b6&style=flat" alt="shaswat0312" /> </p>
-
