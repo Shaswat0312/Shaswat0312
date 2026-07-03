@@ -40,6 +40,7 @@
 <hr>
 
 <div align="center">
+  
 ##  Tech Stack
 <img src="https://iconic-api.onrender.com/light/java" width="70"/>
 <img src="https://iconic-api.onrender.com/dark/python" width="70"/>
