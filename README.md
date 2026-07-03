@@ -23,8 +23,6 @@
   </p>
 </div>
 
-
-
 <p align="center">
   <a href="https://shaswat0312.vercel.app">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%E2%9E%A1%EF%B8%8F-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a&color=2c2c2c" alt="Visit My Portfolio" />
