@@ -18,7 +18,7 @@
 
   <p>
     This GitHub is where I share everything I’m working on — from complete projects to small experiments — 
-    and continue growing as a developer .
+    and continue growing as a developer
   </p>
 </div>
 
