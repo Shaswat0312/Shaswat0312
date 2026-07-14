@@ -4,7 +4,7 @@
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <p>
     I’m a <strong>Full Stack Developer</strong> and <strong>DevOps Enthusiast</strong>, currently a 
-    <strong>pre-final year B.Tech (CSE) student at ITER, SOA</strong>. I enjoy building things that are actually useful and meaningful.
+    <strong>Final year B.Tech (CSE) student at ITER, SOA</strong>. I enjoy building things that are actually useful and meaningful.
   </p>
   <p>
     I spend most of my time building projects, experimenting with new ideas, and learning by doing. 
